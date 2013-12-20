@@ -43,3 +43,5 @@ map <F6> :cn<cr>
 map <F7> :cN<cr>
 map <F4> @:
 
+" Transparent background
+hi Normal          ctermfg=252 ctermbg=none
